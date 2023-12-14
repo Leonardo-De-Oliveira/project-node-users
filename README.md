@@ -21,15 +21,11 @@ O código é um exemplo de um servidor HTTP usando o framework Express.js em Nod
 
 Rotas e Métodos:
 
-GET /users: Retorna a lista de usuários.
-
-POST /users: Adiciona um novo usuário à lista.
-
-PUT /users/:id: Atualiza um usuário existente com o ID fornecido.
-
-DELETE /users/:id: Remove um usuário com o ID fornecido.
-
-Middleware checkUserId:
+GET /users: Retorna a lista de usuários.<br>
+POST /users: Adiciona um novo usuário à lista.<br>
+PUT /users/:id: Atualiza um usuário existente com o ID fornecido.<br>
+DELETE /users/:id: Remove um usuário com o ID fornecido.<br>
+Middleware checkUserId:<br>
 
 
 Um middleware que verifica se um usuário com o ID fornecido existe antes de executar certas rotas.
