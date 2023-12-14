@@ -9,7 +9,7 @@ Este comando instalará todas as dependências listadas no arquivo package.json,
 
 3. Execute o Servidor
 
-utiline o comando npm run dev para executar o arquivo index e o nodemon ficar ativo, ou node index.js já vai iniciar o localhost.
+utiline o comando npm run dev para executar o arquivo index e o nodemon ficar ativo, ou node index.js já vai iniciar o servidor local.
 
 4. Teste a Aplicação
 Abra um navegador e acesse http://localhost:3000/users para obter a lista de usuários (vazia inicialmente).
